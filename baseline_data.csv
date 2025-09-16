@@ -1,0 +1,39 @@
+Zone,Area,Area_ID,Population,Baseline_Response_Time_Minutes,Baseline_Preparedness_Score,Baseline_Year
+Thane East,Kopri,TE01,12500,42,38,2012
+Thane East,Naupada,TE02,9800,45,35,2012
+Thane East,Uthalsar,TE03,8700,38,40,2012
+Thane East,Wagle Estate,TE04,11200,35,42,2012
+Thane East,Kalwa East,TE05,7500,48,32,2012
+Thane East,Mumbra East,TE06,8900,52,30,2012
+Thane East,Diva East,TE07,6500,44,34,2012
+Thane East,Majiwada,TE08,15600,32,45,2012
+Thane East,Kasarwadavli,TE09,7200,40,39,2012
+Thane East,Manpada,TE10,5800,47,33,2012
+Thane East,Kolshet,TE11,4900,50,31,2012
+Thane East,Balkum,TE12,3800,53,28,2012
+Thane East,Dhokali,TE13,6200,46,36,2012
+Thane East,Kalher,TE14,5500,43,38,2012
+Thane East,Bhayandarpada,TE15,7800,39,41,2012
+Thane East,Kavesar,TE16,6300,45,37,2012
+Thane East,Waghbil,TE17,5100,48,34,2012
+Thane East,Owale,TE18,4700,49,32,2012
+Thane East,Kasarvadavli,TE19,8200,41,37,2012
+Thane East,Bramhand,TE20,6900,46,35,2012
+Thane East,Patlipada,TE21,5400,48,33,2012
+Thane East,Ghodbunder,TE22,7100,44,36,2012
+Thane West,Kalyan,TW01,11800,37,43,2012
+Thane West,Dombivli,TW02,10500,40,41,2012
+Thane West,Ambernath,TW03,12300,34,44,2012
+Thane West,Badlapur,TW04,9200,42,39,2012
+Thane West,Ulhasnagar,TW05,8500,45,37,2012
+Thane West,Bhiwandi,TW06,7900,47,35,2012
+Thane West,Mira Road,TW07,9600,40,40,2012
+Thane West,Bhayandar,TW08,10800,36,43,2012
+Thane West,Vasai,TW09,11500,33,46,2012
+Thane West,Virar,TW10,8300,48,34,2012
+Thane West,Nalasopara,TW11,9700,39,42,2012
+Thane West,Dahanu,TW12,8800,43,38,2012
+Thane West,Talasari,TW13,7600,46,36,2012
+Thane West,Jawhar,TW14,8100,44,39,2012
+Thane West,Mokhada,TW15,9300,41,41,2012
+Thane West,Shahapur,TW16,10200,38,42,2012

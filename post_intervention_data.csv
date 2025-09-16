@@ -1,0 +1,39 @@
+Zone,Area,Area_ID,Population,Post_Response_Time_Minutes,Post_Preparedness_Score,Intervention_Year,Drills_Conducted,Participants
+Thane East,Kopri,TE01,12500,25,47,2014,2,8750
+Thane East,Naupada,TE02,9800,27,43,2014,2,6860
+Thane East,Uthalsar,TE03,8700,23,49,2014,1,5220
+Thane East,Wagle Estate,TE04,11200,21,51,2014,2,7840
+Thane East,Kalwa East,TE05,7500,29,40,2014,1,4500
+Thane East,Mumbra East,TE06,8900,31,38,2014,1,5340
+Thane East,Diva East,TE07,6500,26,42,2014,1,3900
+Thane East,Majiwada,TE08,15600,19,54,2014,2,10920
+Thane East,Kasarwadavli,TE09,7200,24,48,2014,1,4320
+Thane East,Manpada,TE10,5800,28,41,2014,1,3480
+Thane East,Kolshet,TE11,4900,30,39,2014,1,2940
+Thane East,Balkum,TE12,3800,32,36,2014,1,2280
+Thane East,Dhokali,TE13,6200,28,44,2014,1,3720
+Thane East,Kalher,TE14,5500,26,46,2014,1,3300
+Thane East,Bhayandarpada,TE15,7800,23,49,2014,1,4680
+Thane East,Kavesar,TE16,6300,27,45,2014,1,3780
+Thane East,Waghbil,TE17,5100,29,42,2014,1,3060
+Thane East,Owale,TE18,4700,29,40,2014,1,2820
+Thane East,Kasarvadavli,TE19,8200,25,46,2014,1,4920
+Thane East,Bramhand,TE20,6900,28,43,2014,1,4140
+Thane East,Patlipada,TE21,5400,29,41,2014,1,3240
+Thane East,Ghodbunder,TE22,7100,26,45,2014,1,4260
+Thane West,Kalyan,TW01,11800,22,52,2014,2,8260
+Thane West,Dombivli,TW02,10500,24,50,2014,2,7350
+Thane West,Ambernath,TW03,12300,20,53,2014,2,8610
+Thane West,Badlapur,TW04,9200,25,48,2014,1,5520
+Thane West,Ulhasnagar,TW05,8500,27,46,2014,1,5100
+Thane West,Bhiwandi,TW06,7900,28,44,2014,1,4740
+Thane West,Mira Road,TW07,9600,24,49,2014,1,5760
+Thane West,Bhayandar,TW08,10800,22,52,2014,2,7560
+Thane West,Vasai,TW09,11500,20,55,2014,2,8050
+Thane West,Virar,TW10,8300,29,42,2014,1,4980
+Thane West,Nalasopara,TW11,9700,23,51,2014,1,5820
+Thane West,Dahanu,TW12,8800,26,47,2014,1,5280
+Thane West,Talasari,TW13,7600,28,45,2014,1,4560
+Thane West,Jawhar,TW14,8100,26,48,2014,1,4860
+Thane West,Mokhada,TW15,9300,25,50,2014,1,5580
+Thane West,Shahapur,TW16,10200,23,51,2014,2,7140
